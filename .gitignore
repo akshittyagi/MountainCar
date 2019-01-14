@@ -1,0 +1,9 @@
+*.pyc
+debug*
+*.pkl
+*.csv
+*.txt
+*.pdf
+.vscode
+*.png
+.DS*
